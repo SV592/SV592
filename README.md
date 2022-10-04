@@ -1,7 +1,7 @@
 # 💻 S.Pearson
 **`(Student Developer)`**
 
-I'm a fullstack developer trying build up my reputation one repository at a time. Most of my project are built from the ground up with the intention of solving real world problems and some are just for fun 😎.
+I'm a fullstack developer trying build up my reputation one repository at a time. Most of my projects are built from the ground up with the intention of solving real world problems and some are just for fun 😎.
 
 ---
 
