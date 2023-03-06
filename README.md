@@ -1,7 +1,7 @@
 # 💻 S.Pearson
 **`(Student Developer)`**
 
-I'm a fullstack developer trying build up my reputation one repository at a time. Most of my projects are built from the ground up with the intention of solving real world problems and some are just for fun 😎.
+I'm a fullstack developer trying build up my reputation one repository at a time. Most of my projects are built from the ground up with the intention of solving real world problems and some are just for fun.
 
 ---
 
@@ -26,5 +26,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br>
 
 ---
-### 🎬 The Journey
-I started my journey with a high school computer science course and a hello world program. At the time considering the subject was a prospective field of study was very intimidating and i wasn't sure i could pursue this as my major in Uni. And i didn't, i majored in Information technology instead, not exactly my first choice but it's what was avaliable. Eventhough the majors were similar, i was still a computer science student at heart and so i choose to undertake a variety of additional studies such as a minor in math and android development etc. in an attempt to make up for what i was missing. That along with youtube, udemy and every other resource i could find, i studied on my own to bridge the gap. Fast forward to my final semester as a undergrad, i began to search for universities to pursue graduate studies in Computer Science. After sometime, i finally got accepted to do a masters in Computer Science at the University of Waterloo ON Canada. That brings me here, currently specializing in software engineering (January 2023) and working hard everyday to be the best engineer i can be.    
+### 🎬 Prolouge
+I was introduced to computer science with the classic "hello world" program back in high school. TBH, I was kind of intimidated by the whole subject and wasn't sure if I wanted to major in it. Ended up going with Information Technology instead, but my heart was still with computer science. So, I took up some extra courses, like math and Android development, and turned to the almighty YouTube and Udemy to fill in the gaps. Fast forward to my last semester in undergrad, and I was on the hunt for a university to pursue a graduate degree in computer science. And guess what? I got accepted into the University of Waterloo in Canada for my Masters in Computer Science! Now, I'm specializing in software engineering and striving to be the best engineer I can be. It's been quite the journey, but I'm loving every minute of it.
