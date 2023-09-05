@@ -26,4 +26,4 @@ I'm a full-stack developer/researcher trying to build up my reputation one repos
 
 ---
 ### 🎬 Present
-As a Master's student specializing in Software Engineering, a significant portion of my academic journey has been dedicated to mastering the complexities of build systems, with a particular emphasis on npm. Driven by my unwavering passion for remaining at the forefront of emerging trends in build systems and software engineering practices, I'm committed to not only advancing my academic achievements but also to contributing substantively to the dynamic and innovative landscape of software engineering.
+As a Master's student specializing in Software Engineering, a significant portion of my academic journey has been dedicated to mastering the complexities of build systems, with a particular emphasis on npm. Driven by my passion for remaining at the forefront of emerging trends in build systems and software engineering practices, I'm committed to not only advancing my academic achievements but also to contributing to the dynamic and innovative landscape of software engineering.
