@@ -1,5 +1,5 @@
 # 💻 S.Pearson
-**`(Student Developer)`**
+**`(Developer/Researcher)`**
 
 I'm a full-stack developer/researcher trying to build up my reputation one repository/paper at a time. Most of my projects are built from the ground up with the intention of solving real-world problems.
 
