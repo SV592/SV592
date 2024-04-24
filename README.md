@@ -26,6 +26,6 @@ I'm a full-stack developer/researcher trying to build up my reputation one repos
 
 ---
 ### 🎬 Present
- As a Masters student specializing in Software Engineering, I've devoted a considerable amount of time to understanding the intricacies of build systems,
-. I'm driven by an interest in staying updated on emerging trends in software engineering practices. My goal is to continue advancing my expertise
+As a Masters student specializing in Software Engineering, I've devoted a considerable amount of time to understanding the intricacies of build systems. 
+I'm driven by an interest in staying updated on emerging trends in software engineering practices. My goal is to continue advancing my expertise
 while also making meaningful contributions to the software engineering community, whether in academia or industry.
