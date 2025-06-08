@@ -1,7 +1,7 @@
 # 💻 S.Pearson
 **`(Developer/Researcher)`**
 
-I'm a developer/researcher trying to build up my reputation one repository/paper at a time. Most of my projects are built from the ground up with the intention of solving real-world problems.
+Software Engineer with 3 years of experience in full-stack development and building scalable, data-driven applications. Proficient in Python and TypeScript and crafting intuitive frontend interfaces, optimizing backend performance, and streamlining CI/CD workflows.
 
 ---
 
