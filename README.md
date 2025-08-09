@@ -23,8 +23,3 @@ Software Engineer with 3 years of experience in full-stack development and build
 </div>
 <br>
 <br>
-
----
-### 🎬 Present
-My goal is to continue advancing my expertise
-while also making meaningful contributions to the software engineering community, whether in academia or industry.
